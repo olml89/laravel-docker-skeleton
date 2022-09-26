@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# IDEs
+.idea
+.vscode
+
+# Dependencies
+/node_modules
+/vendor
+
+# Public directory
+/public/build
+/public/hot
+/public/storage
+
+# Secret files
+/storage/*.key
+
+# Utilities files
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
